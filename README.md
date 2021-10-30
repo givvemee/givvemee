@@ -1,2 +1,5 @@
-Hi, there! It's me Givvemee! 💥
-Want to be a poositive-thinking, creative Front-end Developer 
+🙌🏻 Givvemee here! 
+I'm Web Front-end Developer 💻
+
+📌 **Skills**
+
