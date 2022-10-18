@@ -26,20 +26,3 @@
    <br/>
 
   </div>
-  
-#
-
-<!-- <div align="center">
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=givvemee&theme=monokai&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=givvemee&layout=monokai&theme=tokyonight)
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=FFFFFF"/> 
-</div> -->
-
-#
-<div align="center">
-
-![givvemee's github stats](https://github-readme-stats.vercel.app/api?username=givvemee&show_icons=true&theme=gotham)
-[![givvemee's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=givvemee&show_icons=true&hide_border=true&theme=gotham&title_color=004386&icon_color=004386&layout=compact)](https://github.com/givvemee)
-</div>
-
-
