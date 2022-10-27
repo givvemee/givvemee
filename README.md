@@ -1,6 +1,8 @@
 <div align="center">
-
+  <h2>
+  
 🙌🏻 Givvemee here! A Hard-thinking Web Front-end Developer 💻
+    </h2>
   
   </div>
 
